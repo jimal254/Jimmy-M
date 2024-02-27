@@ -149,6 +149,9 @@ I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software En
 
 
 </div>
+<a href="https://github.com/jimal254?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=jimal254&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@jimal254's github-readme-stats"/>
+</a>
 
 <p align="center">
 <a href="https://github.com/jimal254?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jimal254&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jimal254's github-readme-stats"/></a>
@@ -180,7 +183,7 @@ I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software En
  
 # Contact
 * [LinkedIn](https://www.linkedin.com/in/jimmymaina/)
-* [Email](mailto:jimal.m@icloud.com)
+*<a href="mailto:jimal.m@icloud.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 
   
 
