@@ -42,7 +42,7 @@ Note: Top languages are only a metric of the languages my public code consists o
 
 ## Languages and Tools:
 <!-- GIF -->
-<img align="right" height="200" width="550" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="200" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <!-- Scripting Section -->
 <h4><font size="+1" face="Tahoma">Scripting:</font></h4>
