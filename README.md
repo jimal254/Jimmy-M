@@ -23,7 +23,7 @@ I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software En
   
 
 
-# 💻 My favorite tools and technologies
+# Favorite Languages and tools 💻
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
