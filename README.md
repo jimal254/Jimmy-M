@@ -22,7 +22,7 @@ I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software En
 - #### ⚡ Fun Fact: Devoted NBA2K aficionado!
   
 <!-- GIF -->
-<img align="right" height="200" width="350" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="center" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 
 # Favorite Languages and tools 💻
