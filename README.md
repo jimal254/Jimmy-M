@@ -25,7 +25,7 @@ I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software En
 <img align="center" height="250" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 
-# Favorite Languages and tools 💻
+   # Favorite Languages and tools 💻
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
