@@ -1,6 +1,4 @@
-# Hi 👋, I'm Jimmy Maina
-
-### <h3 align="left"><font face="Arial"><a href="https://www.linkedin.com/in/jimmy-maina/" target="_blank" rel="noreferrer">Jimmy Maina</a> is an Experienced Data Alchemist with a passion for Software Engineering.
+# Hi 👋, I'm Jimmy Maina an Experienced Data Analyst/Alchemist with a passion for Software Engineering.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimal254&layout=compact&card_width=400&theme=highcontrast)](https://github.com/jimal254/github-readme-stats)
 
@@ -40,8 +38,8 @@
     <img src="https://komarev.com/ghpvc/?username=jimal254&label=Profile%20views&color=0e75b6&style=flat" alt="jimal254" />
 </p>    
 # Contact
-* [LinkedIn](https://www.linkedin.com/in/jimmymaina/)
-* [Email](mailto:jimal.m@icloud.com)
+# [LinkedIn](https://www.linkedin.com/in/jimmymaina/)
+# [Email](mailto:jimal.m@icloud.com)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jimmymaina"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jimmy Maina" /></a></p><br><br>
