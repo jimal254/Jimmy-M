@@ -1,27 +1,23 @@
 # Jimmy Maina - Experienced Data Alchemist
 
-![Jimmy Maina](https://github.com/jimal254.png)
+Hi there! 👋 I'm Jimmy Maina, an experienced Data Analyst/Scientist with a passion for software engineering. Currently, I'm dabbling in the art of software engineering, constantly learning and expanding my skills.
 
-Hi there! 👋 I'm Jimmy Maina, an experienced Data Analyst/Scientist with a passion for software engineering. Currently, I'm exploring the exciting world of software development, constantly learning and expanding my skills.
+## Bio
 
-## About Me
+```python
+class JimmyMaina:
+    def __init__(self):
+        self.name = "Jimmy Maina"
+        self.role = "Data Analyst/Scientist"
+        self.learning = "Software Engineering"
+        self.interests = ["Data Science", "Machine Learning", "Open Source", "Tech Collaborations"]
+        self.network_expansion = "Looking to broaden connections within the tech realm"
 
-- **Name:** Jimmy Maina
-- **Role:** Data Analyst/Scientist
-- **Current Focus:** Software Engineering
-- **Interests:** Data Science, Machine Learning, Open Source, Tech Collaborations
-- **Contact:** 📫 Reach me at: jimal.m@icloud.com
-- **Fun Fact:** ⚡ Devoted NBA2K aficionado!
+    def contact_me(self):
+        return "📫 Reach me at: jimal.m@icloud.com"
 
-## Collaboration and Expertise
+    def fun_fact(self):
+        return "⚡ Fun Fact: Devoted NBA2K aficionado!"
 
-I'm open to learning and collaborating on innovative open-source projects. With a background in data analysis and a newfound interest in software engineering, I bring a unique perspective and a passion for problem-solving to the table.
-
-## Languages and Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <!-- Add more tool icons here -->
-</p>
+    def collaborate(self):
+        return "🤝 Open to learning and collaborating on innovative open source projects"
