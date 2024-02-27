@@ -26,11 +26,7 @@ I am Jimmy Maina a Data Analyst/Scientist Dabbling in the Art of Software Engine
 </p>   
 
  alt="Jimmy Maina's Activity Graph"
-                        src="https://github-readme-activity-graph.vercel.app/graph/?username=jimal254&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
-                />
-        </a>
- <br/>
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
 
 <!--## MY :🏆: TROPHIES-->
@@ -42,11 +38,7 @@ I am Jimmy Maina a Data Analyst/Scientist Dabbling in the Art of Software Engine
 
 ---
 
-<div align="center">
-        <img src="https://komarev.com/ghpvc/?username=jimal254&color=0E9C47&style=for-the-badge"alt=""/>
-        <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jimal254"alt=""/>
-        <img src="https://custom-icon-badges.demolab.com/github/followers/jimal254?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"alt=""/>
-</div>
+
 
 ## Languages and Tools:
 <!-- GIF -->
