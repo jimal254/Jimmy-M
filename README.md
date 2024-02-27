@@ -68,6 +68,48 @@ A Data Analyst/Scientist Dabbling in the Art of Software Engineering currently v
     
 </p>
 
+<!-- markdownlint-disable MD033 -->
+# 
+
+<!--<a href="https://github.com/jimal254/Portfolio-Variants">
+      <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=8000&color=869750&repeat=false&center=true&vCenter=false&random=true&width=435&lines=Just+Creating+.+.+." alt="Typing SVG"
+      />
+   </a>-->
+
+<div align="center"">
+   <a href="https://git.io/typing-svg">
+      <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=8000&color=869750&center=true&vCenter=true&random=true&width=435&lines=LinuXpert;Software+Engineer;" alt="Typing SVG"
+      />
+   </a>
+</div>
+
+---
+
+> ## Ahoy, fellow explorer 🌐 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="hi"/>
+                        alt="Jimmy Maina's Activity Graph"
+                        src="https://github-readme-activity-graph.vercel.app/graph/?username=jimal254&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
+                />
+        </a>
+ <br/>
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</div>
+
+<!--## MY :🏆: TROPHIES-->
+<!--https://github.com/ryo-ma/github-profile-trophy-->
+<br/>
+<div align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=jimal254&no-bg=true&no-frame=true"alt=""/>
+</div>
+
+---
+
+<div align="center">
+        <img src="https://komarev.com/ghpvc/?username=jimal254&color=0E9C47&style=for-the-badge"alt=""/>
+        <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jimal254"alt=""/>
+        <img src="https://custom-icon-badges.demolab.com/github/followers/jimal254?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"alt=""/>
+</div>
 
 
  
