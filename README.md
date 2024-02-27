@@ -25,8 +25,15 @@ I am Jimmy Maina a Data Analyst/Scientist Dabbling in the Art of Software Engine
     <img src="https://komarev.com/ghpvc/?username=jimal254&label=Profile%20views&color=0e75b6&style=flat" alt="jimal254" />
 </p>   
 
- alt="Jimmy Maina's Activity Graph"
- Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!-- GitHub Activity Graph -->
+<div align="center">
+    <img alt="jimal254's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jimal254&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+</div>
+
+<br/>
+
+
+Note: Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
 </div>
 
 <!--## MY :🏆: TROPHIES-->
