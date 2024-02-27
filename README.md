@@ -20,10 +20,7 @@ I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software En
 - #### 🔭 I’m currently working on improving my coding skills.
 - #### 🤝 Open to learning and collaborating on innovative open-source projects.
 - #### ⚡ Fun Fact: Devoted NBA2K aficionado!
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=jimal254&label=Profile%20views&color=0e75b6&style=flat" alt="jimal254" />
-</p>   
+  
 
 
 # 💻 My favorite tools and technologies
@@ -176,7 +173,6 @@ I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software En
 
 
 <p align="center">
-<a href="https://wakatime.com/@jimal254"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jimal254&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@jimal254's wakatime stats"/></a>
 <a href="https://github.com/jimal254?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=jimal254&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@jimal254's trophy stats"/></a>
 </p>
 
@@ -190,7 +186,7 @@ I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software En
 
 
 <p align="center">
-<a href="https://gist.github.com/jimal254"><img src="https://profile-counter.glitch.me/{jimal254}/count.svg" alt="jimal254 :: Visitor's Count" /></a>
+<a href="https://gist.github.com/jimal254"><img src="https://profile-counter.glitch.me/jimal254/count.svg" alt="jimal254 :: Visitor's Count" /></a>
 </p>
 
 
