@@ -181,8 +181,6 @@ I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software En
  
 # Contact
 * [LinkedIn](https://www.linkedin.com/in/jimmymaina/)
-*<a href="mailto:jimal.m@icloud.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-
-  
+* [Email](mailto:jimal.m@icloud.com)
 
 <h3 align="left">Support:</h3> <p><a href="https://www.buymeacoffee.com/jimmymaina"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jimmy Maina" /></a></p><br><br>
