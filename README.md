@@ -17,7 +17,7 @@
         <img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="100" height="100"/>
     </a>
     <a href="https://golang.org/" target="_blank" rel="noreferrer">
-        <img src="https://perisync.com/images/gocc.gif" alt="golang" width="170" height="100"/>
+        <img src="https://perisync.com/images/gocc.gif" alt="golang" width="100" height="100"/>
     </a>
 </p>
 
@@ -25,18 +25,19 @@
 <h4><font size="+1" face="Tahoma">Languages:</font></h4>
 <p>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="170" height="100"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="170" height="100"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>
     </a>
 </p>
 
 - #### 🔭 I’m currently working on improving my coding skills.
-- #### 👯 I’m open to collaborating on Software Engineering projects.
-
+- #### 🤝 Open to learning and collaborating on innovative open-source projects.
+- #### ⚡ Fun Fact: Devoted NBA2K aficionado!
+    
 # Contact
-* [LinkedIn](https://www.linkedin.com/in/jimmym/)
+* [LinkedIn](https://www.linkedin.com/in/jimmymaina/)
 * [Email](mailto:jimal.m@icloud.com)
 
 <h3 align="left">Support:</h3>
