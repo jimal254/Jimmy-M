@@ -149,11 +149,6 @@ I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software En
 </div>
 
 <p align="center">
-
-<!--
-<a href="https://github.com/jimal254?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=jimal254&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@jimal254's github-readme-stats"/></a>
--->
-
 <a href="https://github.com/jimal254?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jimal254&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jimal254's github-readme-stats"/></a>
 <a href="https://github.com/jimal254?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=jimal254&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@jimal254's github-readme-streak-stats"/></a>
 
@@ -180,12 +175,6 @@ I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software En
 
 <p align="center">
 <a href="https://wakatime.com/@jimal254"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/jimal254?tab=following"><img src="https://img.shields.io/github/stars/jimal254?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/jimal254?tab=followers"><img src="https://img.shields.io/github/followers/jimal254?&logoColor=red&style=social" alt="GitHub followers"></a>
-</p>
-
-
-<p align="center">
 <a href="https://gist.github.com/jimal254"><img src="https://profile-counter.glitch.me/jimal254/count.svg" alt="jimal254 :: Visitor's Count" /></a>
 </p>
 
