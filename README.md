@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimal254&layout=compact&card_width=400&theme=highcontrast)](https://github.com/jimal254/github-readme-stats)
 
-![Jimmy Maina's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimal254&show_icons=true&theme=highcontrast)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=jimal254&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jimal254&theme=highcontrast)](https://git.io/streak-stats)
 
 ## Languages and Tools:
 <!-- GIF -->
@@ -25,17 +25,20 @@
 <h4><font size="+1" face="Tahoma">Languages:</font></h4>
 <p>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="170" height="100"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="170" height="100"/>
     </a>
 </p>
 
 - #### 🔭 I’m currently working on improving my coding skills.
 - #### 🤝 Open to learning and collaborating on innovative open-source projects.
 - #### ⚡ Fun Fact: Devoted NBA2K aficionado!
-    
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=jimal254&label=Profile%20views&color=0e75b6&style=flat" alt="jimal254" />
+</p>    
 # Contact
 * [LinkedIn](https://www.linkedin.com/in/jimmymaina/)
 * [Email](mailto:jimal.m@icloud.com)
