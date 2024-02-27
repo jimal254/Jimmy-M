@@ -14,8 +14,8 @@
       />
    </a>
 </div>
-# Hi 🌐 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="hi"/> 
-I am Jimmy Maina a Data Analyst/Scientist Dabbling in the Art of Software Engineering currently venturing into the realm of software engineering. My interests span across data science, machine learning, open source, and tech collaborations. 
+# Hello  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="hi"/> 
+I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software Engineering currently venturing into the realm of software engineering. My interests span across data science, machine learning, open source, and tech collaborations. 
 
 - #### 🔭 I’m currently working on improving my coding skills.
 - #### 🤝 Open to learning and collaborating on innovative open-source projects.
