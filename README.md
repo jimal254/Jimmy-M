@@ -7,15 +7,8 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer;Data Analyst|Scientist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-
-<!--<a href="https://github.com/jimal254/Portfolio-Variants">
-      <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=8000&color=869750&repeat=false&center=true&vCenter=false&random=true&width=435&lines=Just+Creating+.+.+." alt="Typing SVG"
-      />
-   </a>-->
-
 
 # Hello  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="hi"/> 
 I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software Engineering currently venturing into the realm of software engineering. My interests span across data science, machine learning, open source, and tech collaborations. 
