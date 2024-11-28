@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20Software%20Engineer;Data%20Ananlyst%20|Scientist%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20Software%20Engineer;Data%20Ananlyst|Scientist%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 I am Jimmy Maina a Data Analyst/Scientist🐍 Dabbling in the Art of Software Engineering currently venturing into the realm of software engineering. My interests span across data science, machine learning, open source, and tech collaborations. 
 
