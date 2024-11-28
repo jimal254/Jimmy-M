@@ -1,4 +1,8 @@
 <!-- markdownlint-disable MD033 -->    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%Software+Engineer;Data%Analyst%|Scientist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <!--<a href="https://github.com/jimal254/Portfolio-Variants">
@@ -10,7 +14,7 @@
 <div align="center"">
    <a href="https://git.io/typing-svg">
       <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=8000&color=869750&center=true&vCenter=true&random=true&width=435&lines=Data Analyst/Scientist;Software+Engineer " alt="Typing SVG"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=8000&color=869750&center=true&vCenter=true&random=true&width=435&lines=Data Analyst|Scientist;Software+Engineer " alt="Typing SVG"
       />
    </a>
 </div>
