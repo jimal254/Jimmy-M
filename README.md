@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 -->    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <!--<a href="https://github.com/jimal254/Portfolio-Variants">
       <img
